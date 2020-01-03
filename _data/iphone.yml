@@ -1,15 +1,7 @@
+iphone11promax:
+  name: "iphone 11 Pro Max"
+  release: "September,2019"
+
 iphone11pro:
   name: "iphone 11 Pro"
   release: "September,2019"
-
-- name: "iphone 11 Pro Max"
-  release: "September,2019"
-
-- name: "iphoneX"
-  release: "2017"
-  
-- name: "iphone8plus"
-  release: "2017"
-  
-- name: "iphone8"
-  release: "2017"
