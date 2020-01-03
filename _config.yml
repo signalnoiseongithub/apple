@@ -1,0 +1,23 @@
+title: Apple
+description: Everything Apple
+
+url: https://signalnoiseongithub.github.io/apple
+baseurl: /apple
+
+paginate: 10
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  
+plugins:
+  - jekyll-feed
+
+author: signalnoise
