@@ -1,11 +1,8 @@
-- iphoneX:
-    name: "iphoneX"
-    release: "2017"
+- name: "iphoneX"
+  release: "2017"
   
-- iphone8plus:
-    name: "iphone8plus"
-    release: "2017"
+- name: "iphone8plus"
+  release: "2017"
   
-- iphone8:
-    name: "iphone8"
-    release: "2017"
+- name: "iphone8"
+  release: "2017"
