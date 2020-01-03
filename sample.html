@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Sample Page
+iphone: iphone11pro
 ---
 
-{% for item in site.data.iphone %}
-  {{ item.name }}
-  {{ item.release }}
-{% endfor %}
+{% assign iphone = site.data.iphone[page.iphone] %}
+<p>{{ iphone.name }}</p>
+<p>{{ iphone.release }}</p>
 
-wadu
+
+
