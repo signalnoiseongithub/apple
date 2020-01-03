@@ -1,6 +1,13 @@
 iphone11promax:
   name: "iphone 11 Pro Max"
   release: "September,2019"
+  display-type: "Super Retina XDR OLED capacitive touchscreen, 16M colors"
+  display-resolution: "1242 x 2688 pixels, 19.5:9 ratio (~458 ppi density)"
+  display-protection: "Scratch-resistant glass, oleophobic coating"
+  os: "ios"
+  chipset: "Apple A13 Bionic (7 nm+)"
+  cpu: "Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)"
+  gpu: "Apple GPU (4-core graphics)"
 
 iphone11pro:
   name: "iphone 11 Pro"
