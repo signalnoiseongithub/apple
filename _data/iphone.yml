@@ -1,3 +1,10 @@
+iphone11pro:
+  name: "iphone 11 Pro"
+  release: "September,2019"
+
+- name: "iphone 11 Pro Max"
+  release: "September,2019"
+
 - name: "iphoneX"
   release: "2017"
   
